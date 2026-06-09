@@ -25,7 +25,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: ">> 𝖢𝗅𝗂𝗉𝗉𝖾𝗋𝗌𝖯𝖧 𝖲𝗒𝗌 𝖠𝖨 [ALGO-MATRIX CORE] <<",
+        name: ">> 𝖢𝗅𝗂𝗉𝗉𝖾𝗋𝗌𝖯𝖧 𝖲𝗒𝗌 𝖠𝖨 <<",
         // Activity type number (0 = Playing).
         type: 0, 
       },
